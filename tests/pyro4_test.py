@@ -6,8 +6,8 @@ class LoadTestUser(HttpUser):
 
     @task
     def get_homepage(self):
-        self.client.get("http://127.0.0.1:5000/product/P0001")  # gửi yêu cầu GET đến trang chủ của server
+        self.client.get("http://127.0.0.1:9090/")  # gửi yêu cầu GET đến trang chủ của server
 
-    @task
-    def get_about(self):
-        self.client.get("http://127.0.0.1:5000/products")
+    # @task
+    # def get_about(self):
+    #     self.client.get("http://127.0.0.1:5000/products")

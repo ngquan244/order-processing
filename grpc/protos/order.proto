@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+package order;
+
+service OrderService {
+    rpc CreateOrder (CreateOrderRequest) returns (CreateOrderResponse);
+}
+
+message CreateOrderRequest {
+    string product_code = 1;
+    int32 quantity = 2;
+}
+
+message CreateOrderResponse {
+    string message = 1;
+    int32 order_id = 2;
+    string product_code = 3;
+    int32 quantity = 4;
+    float total_price = 5;
+}
+service OrderService {
+  rpc CreateOrder(CreateOrderRequest) returns (CreateOrderResponse);
+  rpc GetOrder(GetOrderRequest) returns (CreateOrderResponse);  // Thêm phương thức này
+}
+
+message GetOrderRequest {
+  int32 order_id = 1;  // Thông tin về order_id cần truy xuất
+}
+
+message CreateOrderResponse {
+  string message = 1;
+  int32 order_id = 2;
+  string product_code = 3;
+  int32 quantity = 4;
+  double total_price = 5;
+}
+
+rpc UpdateOrder(UpdateOrderRequest) returns (CreateOrderResponse);
+
+message UpdateOrderRequest {
+  int32 order_id = 1;
+  string product_code = 2;
+  int32 quantity = 3;
+}
+rpc DeleteOrder(DeleteOrderRequest) returns (CreateOrderResponse);
+
+message DeleteOrderRequest {
+  int32 order_id = 1;
+}
