@@ -30,27 +30,27 @@ Một số hình ảnh kết quả:
 
 ![image](https://github.com/user-attachments/assets/b401863d-177b-428f-bf14-7e1690677787)
 
--5 users:
+-5 users: +1 user/s
 
 ![image](https://github.com/user-attachments/assets/00caf60a-e43d-4df1-9bab-570bba037690)
 
--10 users:
+-10 users: +1 user/s
 
 ![image](https://github.com/user-attachments/assets/536ee2e8-2187-4879-bc63-b6c58ea071df)
 
--50 users:
+-50 users: +1 user/s
 
 ![image](https://github.com/user-attachments/assets/d51ddf3a-3364-4aeb-93df-c041caa4ea2e)
 
--100 users:
+-100 users: +1 user/s
 
 ![image](https://github.com/user-attachments/assets/743761d2-4b27-464f-ac71-da49a1eee7ba)
 
--500 users:
+-500 users: +50 user/s
 
 ![image](https://github.com/user-attachments/assets/e5c13390-269f-4130-988a-dcc000094bf5)
 
--1000 users:
+-1000 users: +50 user/s
 
 ![image](https://github.com/user-attachments/assets/7d172bbc-f89f-40eb-b7bf-bb0e63b8c88e)
 
