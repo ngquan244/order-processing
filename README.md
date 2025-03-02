@@ -7,7 +7,7 @@ Một số hình ảnh kết quả:
 
 ![image](https://github.com/user-attachments/assets/fb5f1112-291b-4a1b-b6e1-a49c73f73efc)
 
-3. Grpc
+2. Grpc
 
 ![image](https://github.com/user-attachments/assets/dfcd7ce0-3dfc-4f82-99e7-75ea79dba099)
 
@@ -15,7 +15,18 @@ Một số hình ảnh kết quả:
 
 ![image](https://github.com/user-attachments/assets/08684e07-03cc-491f-adc7-7c4dd24768bc)
 
-3.Locust
+
+3. Pyro4
+
+![image](https://github.com/user-attachments/assets/17629632-9789-430c-8269-272ad3b8b558)
+
+![image](https://github.com/user-attachments/assets/2c731bb5-911d-4636-92e6-1d2b753d0377)
+
+![image](https://github.com/user-attachments/assets/57136faf-9618-4939-acc2-5b699fc50efd)
+
+
+
+4.Kiểm thử
 
 ![image](https://github.com/user-attachments/assets/b401863d-177b-428f-bf14-7e1690677787)
 
