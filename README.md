@@ -4,11 +4,15 @@ Một số hình ảnh kết quả:
 1. Chạy demo client và server
 
 ![image](https://github.com/user-attachments/assets/75d57513-6c2b-4827-aec2-736d0f1621ec)
+
 ![image](https://github.com/user-attachments/assets/fb5f1112-291b-4a1b-b6e1-a49c73f73efc)
+
 3. Grpc
 
 ![image](https://github.com/user-attachments/assets/dfcd7ce0-3dfc-4f82-99e7-75ea79dba099)
+
 ![image](https://github.com/user-attachments/assets/824fe5a1-e104-4cf1-9c9b-d87631e00d11)
+
 ![image](https://github.com/user-attachments/assets/08684e07-03cc-491f-adc7-7c4dd24768bc)
 
 3.Locust
